@@ -1,0 +1,123 @@
+{
+    "developers":[{
+        "uid": "211cdd18",
+        "firstName": "Baron",
+        "lastName": "Lansberry",
+        "email": "blansberry0@blogspot.com",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/baron.svg",
+        "phoneNumber": "912-945-6432",
+        "experience": 7,
+        "type": "full stack developer",
+        "active": true
+      }, {
+        "uid": "9cfb5da5",
+        "firstName": "Parrnell",
+        "lastName": "Manz",
+        "email": "pmanz1@rakuten.co.jp",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/parrnell.svg",
+        "phoneNumber": "991-578-0829",
+        "experience": 5,
+        "type": "back end developer",
+        "active": true
+      }, {
+        "uid": "e925666b",
+        "firstName": "King",
+        "lastName": "Molen",
+        "email": "kmolen2@ca.gov",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/king.svg",
+        "phoneNumber": "440-565-9747",
+        "experience": 1,
+        "type": "back end developer",
+        "active": true
+      }, {
+        "uid": "af81c3aa",
+        "firstName": "Mavis",
+        "lastName": "Isakson",
+        "email": "misakson3@ibm.com",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/mavis.svg",
+        "phoneNumber": "214-831-0446",
+        "experience": 4,
+        "type": "back end developer",
+        "active": true
+      }, {
+        "uid": "cdc18c85",
+        "firstName": "Chiquia",
+        "lastName": "Watling",
+        "email": "cwatling4@sina.com.cn",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/chiquia.svg",
+        "phoneNumber": "620-412-9645",
+        "experience": 6,
+        "type": "back end developer",
+        "active": false
+      }, {
+        "uid": "a90ab79d",
+        "firstName": "Ki",
+        "lastName": "Safell",
+        "email": "ksafell5@creativecommons.org",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/ki.svg",
+        "phoneNumber": "370-597-2681",
+        "experience": 6,
+        "type": "front end developer",
+        "active": false
+      }, {
+        "uid": "2001aed2",
+        "firstName": "Myrilla",
+        "lastName": "Gellert",
+        "email": "mgellert6@liveinternet.ru",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/myrilla.svg",
+        "phoneNumber": "747-306-1989",
+        "experience": 4,
+        "type": "full stack developer",
+        "active": false
+      }, {
+        "uid": "f8e84490",
+        "firstName": "Helsa",
+        "lastName": "Thurbon",
+        "email": "hthurbon7@google.de",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/helsa.svg",
+        "phoneNumber": "787-383-2624",
+        "experience": 4,
+        "type": "back end developer",
+        "active": false
+      }, {
+        "uid": "51aa999b",
+        "firstName": "Graham",
+        "lastName": "Coryndon",
+        "email": "gcoryndon8@opera.com",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/graham.svg",
+        "phoneNumber": "469-311-1948",
+        "experience": 1,
+        "type": "back end developer",
+        "active": true
+      }, {
+        "uid": "9f8f0233",
+        "firstName": "Galina",
+        "lastName": "Topham",
+        "email": "gtopham9@technorati.com",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/galina.svg",
+        "phoneNumber": "919-980-7326",
+        "experience": 7,
+        "type": "front end developer",
+        "active": false
+      }, {
+        "uid": "5c4e79c7",
+        "firstName": "Alexine",
+        "lastName": "Varndall",
+        "email": "avarndalla@live.com",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/alexine.svg",
+        "phoneNumber": "631-986-3665",
+        "experience": 6,
+        "type": "front end developer",
+        "active": false
+      }, {
+        "uid": "0435646f",
+        "firstName": "Jo-ann",
+        "lastName": "Suff",
+        "email": "jsuffb@acquirethisname.com",
+        "avatar": "https://avatars.dicebear.com/api/adventurer/jo-ann.svg",
+        "phoneNumber": "605-255-7418",
+        "experience": 3,
+        "type": "full stack developer",
+        "active": false
+      }]
+}

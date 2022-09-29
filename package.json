@@ -1,0 +1,22 @@
+{
+  "name": "crudydo",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "clean": "rm -rf .git .DS_Store"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nano": "^10.0.0",
+    "open-props": "^1.4.16",
+    "post-cli": "^1.0.5",
+    "postcss": "^8.4.16",
+    "postcss-jit-props": "^1.0.7"
+  }
+}
